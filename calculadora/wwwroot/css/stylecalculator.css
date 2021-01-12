@@ -1,0 +1,33 @@
+﻿body
+    .botoncalculadora{
+    width: 50px;
+}
+
+#Divprincipal {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.botoncero {
+    width: 100px;
+}
+
+#txtResultadoId {
+    width: 200px;
+}
+
+.botonespecial {
+    width: 50px;
+    background-color: black;
+    color: white;
+}
+
+.jumbotron {
+    background-color: wheat;
+}
+
+body {
+    background-color: beige;
+    background-image: url('file:///C:\Users\yinch\source\repos\calculadora\calculadora\Views\imagenes\boat_sea_alone_121414_1366x768.jpg');
+}
